@@ -98,6 +98,17 @@
       "type": "Dwarf Planet",
       "description": "Since 2006, per the International Astronomical Union’s planetary criteria, Pluto isn’t considered a planet because it hasn’t cleared the neighborhood around its orbit of other objects.(NASA)",
       "image": "https://nineplanets.org/wp-content/uploads/2020/03/pluto.png"
+    },
+    {
+      "name": "Jhane",
+      "moons": "2",
+      "radius": "345",
+      "distanceFromSun": "43.7",
+      "temperatureInF": "-380.47",
+      "type": "Ice Giant",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Quaoar-transparent.png",
+      "description": "Quaoar was discovered on June 4th, 2002 by astronomers Chad Trujillo and Michael Brown of the California Institute of Technology, using images that were obtained with the Samuel Oschin Telescope at Palomar Observatory. ",
+      "id": 10
     }
   ]
 }
